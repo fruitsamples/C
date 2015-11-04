@@ -1,9 +1,9 @@
 /*
     File:  DREraseCarbonUI.c
      
-    Copyright:  © Copyright 2004 Apple Computer, Inc. All rights reserved.
+    Copyright:  (c) 2004-2007 Apple Inc.  All Rights Reserved.
 
-    Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple Computer, Inc.
+    Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple Inc.
     ("Apple") in consideration of your agreement to the following terms, and your
     use, installation, modification or redistribution of this Apple software
     constitutes acceptance of these terms.  If you do not agree with these terms,
@@ -17,7 +17,7 @@
     the Apple Software in its entirety and without modifications, you must retain
     this notice and the following text and disclaimers in all such redistributions of
     the Apple Software.  Neither the name, trademarks, service marks or logos of
-    Apple Computer, Inc. may be used to endorse or promote products derived from the
+    Apple Inc. may be used to endorse or promote products derived from the
     Apple Software without specific prior written permission from Apple.  Except as
     expressly stated in this notice, no other rights or licenses, express or implied,
     are granted by Apple herein, including but not limited to any patent rights that
